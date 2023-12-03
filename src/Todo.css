@@ -1,0 +1,18 @@
+.todo-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px;
+  }
+  
+  .completed {
+    background-color: #d3ffd3; 
+  }
+  
+  .completed-text {
+    text-decoration: line-through; 
+    color: black;
+  }
+  
